@@ -1,0 +1,67 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    overflow-x: hidden;
+}
+
+h6{
+    font-family: 'Roboto', sans-serif;
+    color: #707070 !important;
+    font-weight: 300;
+    font-size: 1.2em;
+    
+}
+
+h5 {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+    font-size: x-large;
+    color: #212529;
+}
+
+.card-title {
+    font-family: 'Roboto', sans-serif;
+    font-size: x-large;
+    font-weight: 300; 
+    color: #707070;  
+}
+
+.card-text {
+    font-family: 'Roboto', sans-serif;
+    color: #707070;
+    font-size: larger;
+    font-weight: 300;
+    text-align: justify;
+}
+
+.border-top {
+    padding-top: 5px;
+    max-width: 95%;
+    margin: auto;
+    color: #707070A0;
+}
+
+.text-success {
+    font-size: 1.8em;
+    font-weight: 600;
+    text-align: right;
+    color: #28A745 !important;
+}
+
+.card {
+    border-color: #DDDDDD;
+}
+
+.footer {
+    background-color:  #28A745;
+}
+
+a:hover{
+    
+    color: #707070A0 !important;
+}
+
+.text-white {
+    color: #FFFFFF !important;
+    font-weight: 500;
+    font-size: xx-large;
+}
